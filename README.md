@@ -1,3 +1,3 @@
-# MJML-SASS-ElectronApp
-MJML-SASS branch Electron App for 
+# MJML Email Drag Drop
+Electron App for 
 http://email.diybuilder.in/index.php
